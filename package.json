@@ -1,6 +1,11 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "stream-chat-react-native-core",
+  "description": "The official React Native and Expo components for Stream Chat, a service for building chat applications",
+  "version": "3.6.0-rc.0",
+  "author": {
+    "company": "Stream.io Inc",
+    "name": "Stream.io Inc"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/GetStream/stream-chat-react-native.git"
