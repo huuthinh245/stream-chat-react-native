@@ -1,7 +1,5 @@
 {
-  "name": "stream-chat-react-native",
-  "description": "The official React Native and Expo components for Stream Chat, a service for building chat applications",
-  "version": "1.0",
+  "name": "root",
   "private": true,
   "repository": {
     "type": "git",
