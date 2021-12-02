@@ -1,14 +1,11 @@
 {
-  "name": "stream-chat-react-native-core",
+  "name": "stream-chat-react-native-core-ghn",
   "description": "The official React Native and Expo components for Stream Chat, a service for building chat applications",
-  "version": "3.10.2",
-  "author": {
-    "company": "Stream.io Inc",
-    "name": "Stream.io Inc"
-  },
+  "version": "3.10.9",
+  "author": "Stream.io Inc",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GetStream/stream-chat-react-native.git"
+    "url": "git+https://github.com/huuthinh245/stream-chat-react-native.git"
   },
   "license": "SEE LICENSE IN LICENSE",
   "main": "lib/commonjs/index.js",
@@ -145,5 +142,15 @@
     "typescript": "4.2.4",
     "uuid": "8.3.2",
     "webpack": "4.44.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/huuthinh245/stream-chat-react-native/issues"
+  },
+  "homepage": "https://github.com/huuthinh245/stream-chat-react-native#readme",
+  "bin": {
+    "stream-chat-react-native-core-fork": "bin/validate-translations.js"
+  },
+  "keywords": [
+    "internal"
+  ]
 }
